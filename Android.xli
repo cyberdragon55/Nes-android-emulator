@@ -1,7 +1,16 @@
-# using <iostream>
+#using <iostream>
  using namespace std ;
  {
   cout <<("NES") ;
   }
   int main << ("Rungame") ;
    int main << ("readexternalstorage) ;
+//declaring:
+int a,b;
+int result;
+
+//process :
+a = 5;
+b = 2;
+a = a + 1;
+result = a - b;

@@ -1,0 +1,7 @@
+# using <iostream>
+ using namespace std ;
+ {
+  cout <<("NES") ;
+  }
+  int main << ("Rungame") ;
+   int main << ("readexternalstorage) ;
